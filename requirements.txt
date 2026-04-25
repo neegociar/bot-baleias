@@ -1,3 +1,4 @@
+wheel
 binance==0.3.109
 websockets==12.0
 requests==2.31.0
