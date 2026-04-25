@@ -12,7 +12,7 @@ import logging
 import websockets
 import threading
 from datetime import datetime, timedelta
-from binance.client import Client
+from binance import Client
 import joblib
 import numpy as np
 from sklearn.ensemble import RandomForestClassifier
