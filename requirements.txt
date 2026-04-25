@@ -1,0 +1,6 @@
+binance
+websockets
+requests
+numpy
+scikit-learn
+joblib
