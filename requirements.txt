@@ -1,6 +1,6 @@
 setuptools
 wheel
-binance==0.3.109
+python-binance==1.0.23
 websockets==12.0
 requests==2.31.0
 numpy==1.24.3
